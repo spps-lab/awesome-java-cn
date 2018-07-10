@@ -18,14 +18,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 如何参与本项目？
 
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
 不过加入前，有几个小要求：
 
 * 英文还不错，能读懂英文并用自己的话复述；
 * 在用 Java；
 
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「Java大全」
+如有兴趣，请加 QQ：50872495。加 Q 时请注明「Java大全」 -->
 
 * * *
 
@@ -46,13 +46,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、[云中游](http://www.jobbole.com/members/TonyAaron/)、[Zemo](http://www.jobbole.com/members/zemo/)、[sdcuike](https://github.com/sdcuike)、[danielwii](https://github.com/danielwii)、[oneDay](http://www.jobbole.com/members/q1118024125/)、[邢敏](https://github.com/dfghj44444)、[heikehuan](https://github.com/heikehuan)、[fgcui1204](https://github.com/fgcui1204)、[wenxueliu](https://github.com/wenxueliu)、[Gentle Yang](https://github.com/node)、[黄小非](http://hao.jobbole.com/author/huangxiaofei/)、[wangtg](http://www.jobbole.com/members/wtgn1m1/)、[百焱](http://www.jobbole.com/members/2937134480/)、[胡不GUI](http://www.jobbole.com/members/2480130384/)、[Another_mt](http://www.jobbole.com/members/mtHzm/)、[Rainbow](http://www.jobbole.com/members/adonis/)、[super^糖](http://www.jobbole.com/members/menghuanqiqi)、[黄余粮](http://www.jobbole.com/members/huangyuliang/)、[Sun](http://www.jobbole.com/members/sunbojian100/)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、[云中游](http://www.jobbole.com/members/TonyAaron/)、[Zemo](http://www.jobbole.com/members/zemo/)、[sdcuike](https://github.com/sdcuike)、[danielwii](https://github.com/danielwii)、[oneDay](http://www.jobbole.com/members/q1118024125/)、[邢敏](https://github.com/dfghj44444)、[heikehuan](https://github.com/heikehuan)、[fgcui1204](https://github.com/fgcui1204)、[wenxueliu](https://github.com/wenxueliu)、[Gentle Yang](https://github.com/node)、[黄小非](http://hao.jobbole.com/author/huangxiaofei/)、[wangtg](http://www.jobbole.com/members/wtgn1m1/)、[百焱](http://www.jobbole.com/members/2937134480/)、[胡不GUI](http://www.jobbole.com/members/2480130384/)、[Another_mt](http://www.jobbole.com/members/mtHzm/)、[Rainbow](http://www.jobbole.com/members/adonis/)、[super^糖](http://www.jobbole.com/members/menghuanqiqi)、[黄余粮](http://www.jobbole.com/members/huangyuliang/)、[Sun](http://www.jobbole.com/members/sunbojian100/)、[李伟高](https://github.com/SoberChina)、You
 
 注：名单不分排名，不定期补充更新
 
 * * *
 
-### 奖励计划
+<!-- ### 奖励计划
 
 虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
 
@@ -60,7 +60,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
 * [奖励详情](http://hao.jobbole.com/rewards/)
 
-* * *
+* * * -->
 ### 目录
 - [Java资源大全中文版](#awesome-java-cn)
     - [古董级工具](#ancients)
@@ -122,7 +122,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     - [微博、微信公众号](#weibo-weixin)
     - [Twitter](#twitter)
     - [知名网站](#websites)
-    - [博客](blogs)
 
 
 <h2 id="ancients">古董级工具</h2>
@@ -504,7 +503,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Hibernate](http://hao.jobbole.com/hibernate/)：广泛使用、强健的持久化框架。Hibernate的技术社区非常活跃。[官网](http://hibernate.org/orm/)
 * [MyBatis](http://hao.jobbole.com/mybatis/)：带有存储过程或者SQL语句的耦合对象（Couples object）。[官网](http://mybatis.github.io/mybatis-3/)
 * [OrmLite](http://hao.jobbole.com/ormlite/)：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
-* Nutz：另一个SSH。[官网](http://nutzam.com/)，[Github](https://github.com/nutzam/nutz)
+* Nutz：另一个SSH。[官网](http://nutzam.com/)，[Github](https://github.com/nutzam/nutz)，[论坛](https://nutz.cn/)
 * JFinal：JAVA WEB + ORM框架。[官网](http://www.jfinal.com)，[Github](https://github.com/jfinal/jfinal)
 * [Apache OpenJPA](http://openjpa.apache.org/): 实现了 EJB 3.0 中的 JPA 标准,为开发者提供功能强大、使用简单的持久化数据管理框架。 [官网](http://openjpa.apache.org/)
 
@@ -608,6 +607,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [FreeMarker](http://hao.jobbole.com/freemarker/)：通用模板引擎，不需要任何重量级或自己使用的依赖关系。[官网](http://freemarker.org/)
 * [Handlebars.java](http://hao.jobbole.com/handlebars-java/)：使用Java编写的模板引擎，逻辑简单，支持语义扩展（semantic Mustache）。[官网](http://jknack.github.io/handlebars.java/)
 * [Thymeleaf](http://hao.jobbole.com/thymeleaf/)：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
+* [Beetl](http://ibeetl.com/)：新一代的模板引擎，功能强大，性能良好，超过当前流行的模板引擎。而且还易学易用。[官网](http://ibeetl.com/)
 
 <h3 id="testing">测试</h3>
 
@@ -687,6 +687,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * r/java：Reddit的Java子社区。[官网](https://www.reddit.com/r/java)
 * stackoverflow：问答平台。[官网](http://stackoverflow.com/questions/tagged/java)
 * vJUG：虚拟Java用户组。[官网](http://virtualjug.com/)
+* java8 新特性教程例子。[github](https://github.com/winterbe/java8-tutorial)
 
 <h3 id="influential-books">有影响力的书</h3>
 
